@@ -22,7 +22,7 @@ async def start_(client: Client, message: Message):
         photo=f"{START_PIC}",
         caption=f""" ‹ مرحبا بك عزيزي في بوت **{BOT_NAME}**
         
-- اضغط على زر ‹ الاوامر › لمعرفة الأوامر ›
+- اضغط على ازراررر9 ‹ الاوامر › لمعرفة الأوامر ›
 
 - اضغط على زر ‹ الاعدادات › لمعرفة الاعدادات ›""",
         reply_markup=InlineKeyboardMarkup(
