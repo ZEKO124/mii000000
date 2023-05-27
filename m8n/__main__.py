@@ -42,8 +42,8 @@ async def load_start():
             pass
     await app.send_message(OWNER_ID, "**‹ تهنى حبيبي المطور تم تشغيل البوت بنجاح ›**")
    # Copyrighted Area
-    await client.join_chat("xl444")
-    await client.join_chat("vvyvv6")
+    await client.join_chat("D_6_F")
+    await client.join_chat("love22ll")
     print("[INFO]: STARTED")
     
 
